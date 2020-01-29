@@ -1,25 +1,18 @@
-# TaskWorld_JS
+A) PRE-REQUISTIES :
 
+Pls Read "How to SETUP.txt"
 
-Regression End to End Test:
-
-WORSPACE(ACTUAL CODE) = Check Folder Name WORKSPACE_TESTCODE  
-
-READ-ME folder has 
-           HOW TO SETUP
-		   HOW TO RUN
-		   OTHER EXPLANATION
-
-
-HOW TO RUN THE TEST :
+B) HOW TO RUN THE TEST :
 
 	RUN FROM COMMAND LINE:
 
-		1.Clone the project
-		2.npm install
-		3.npm start
-
-//package.json file has configuration about dependencies to install, Test run configuration.
+		1.Clone the project 
+		2.cd to the above directory and to WORKSPACE_TESTCODE
+		3.npm install
+		4.npm start
+		
+	
+	(OR)
 	
 	RUN FROM WEBSTORM IDE :
 		
@@ -43,4 +36,5 @@ HOW TO RUN THE TEST :
 			TO RUN :
 			Click on execute button to run the script.
 
- 
+
+    
