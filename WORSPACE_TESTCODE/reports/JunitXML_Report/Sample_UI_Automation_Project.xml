@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="5" errors="0" failures="0" tests="6" time="70.647">
+ <testsuite name="TaskWorld End to End Regression Test" timestamp="2020-01-29T08:51:21" hostname="localhost" time="35.324" errors="0" tests="4" skipped="0" disabled="4" failures="0">
+  <testcase classname="TaskWorld End to End Regression Test" name="The_user_creates_a_new_tasklist_in_the_project()" time="0">
+   <skipped message="Temporarily disabled with xit" />
+  </testcase>
+  <testcase classname="TaskWorld End to End Regression Test" name="The_user_adds_a_new_task_to_the_tasklist" time="0">
+   <skipped />
+  </testcase>
+  <testcase classname="TaskWorld End to End Regression Test" name="The_user_marks_the_task_as_completed" time="0">
+   <skipped />
+  </testcase>
+  <testcase classname="TaskWorld End to End Regression Test" name="The_user_opens_the_completed_task_to_see_its_details" time="0.001">
+   <skipped />
+  </testcase>
+ </testsuite>
+ <testsuite name="TaskWorld End to End Regression Test.TestCases for Creation of a new Project, TaskList , adding/completing task" timestamp="2020-01-29T08:51:21" hostname="localhost" time="35.323" errors="0" tests="2" skipped="0" disabled="1" failures="0">
+  <testcase classname="TaskWorld End to End Regression Test.TestCases for Creation of a new Project, TaskList , adding/completing task" name="The_user_creates_a_new_project()" time="35.322" />
+  <testcase classname="TaskWorld End to End Regression Test.TestCases for Creation of a new Project, TaskList , adding/completing task" name="An_existing_user_logs_into_the_system" time="0.001">
+   <skipped />
+  </testcase>
+ </testsuite>
+</testsuites>

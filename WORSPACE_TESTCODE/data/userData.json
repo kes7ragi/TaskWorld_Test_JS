@@ -1,0 +1,12 @@
+{
+  "urls": {
+    "TaskWorld_Site_URL":"https://enterprise.taskworld.com/login"
+  },
+
+  "Logins":{
+    "Email":"email",
+    "password":"password",
+    "Username": "test251191@gmail.com",
+    "Password": "zxCVB@123"
+  }
+}
