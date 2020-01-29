@@ -6,7 +6,7 @@
   "scripts": {
     "test": "./node_modules/.bin/protractor config.js",
     "start": "npm run updateDriver && npm run test",
-    "updateDriver": "./node_modules/.bin/webdriver-manager update --versions.chrome=75.0.3770.80"
+    "updateDriver": "./node_modules/.bin/webdriver-manager update"
   },
   "author": "",
   "license": "ISC",
