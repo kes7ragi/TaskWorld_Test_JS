@@ -91,7 +91,7 @@ describe('TaskWorld End to End Regression Test',function(){
                 
          });
 
-        fit("The_user_creates_a_new_project()", async function(){
+        it("The_user_creates_a_new_project()", async function(){
             
             await verify_login_to_taskworld_successful();
                 taskCreationPage.create_new_project(PROJECT_NAME,PROJECT_DESCRIPTION,'PRIVATE',ProjectTemplate1.BLANK).then(function(returnedText){
